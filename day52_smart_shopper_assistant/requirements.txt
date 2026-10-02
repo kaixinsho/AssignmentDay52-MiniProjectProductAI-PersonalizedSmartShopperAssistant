@@ -1,0 +1,5 @@
+pymongo
+langchain
+langchain-google-genai
+python-dotenv
+google-genai

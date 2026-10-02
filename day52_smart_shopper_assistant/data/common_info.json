@@ -1,0 +1,17 @@
+[
+  {
+    "category": "pengiriman",
+    "question": "Berapa lama estimasi waktu pengiriman barang?",
+    "answer": "Estimasi pengiriman reguler memakan waktu 2-4 hari kerja untuk wilayah Jabodetabek, dan 3-7 hari kerja untuk luar Jabodetabek."
+  },
+  {
+    "category": "refund",
+    "question": "Bagaimana cara mengajukan pengembalian dana atau refund?",
+    "answer": "Pengembalian dana dapat diajukan dalam waktu maksimal 3 hari setelah barang diterima dengan melampirkan video unboxing melalui menu pusat bantuan."
+  },
+  {
+    "category": "pembayaran",
+    "question": "Metode pembayaran apa saja yang tersedia?",
+    "answer": "Kami menerima pembayaran melalui transfer bank (BCA, Mandiri, BNI), e-wallet (GoPay, OVO, Dana), serta kartu kredit."
+  }
+]
